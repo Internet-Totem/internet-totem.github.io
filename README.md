@@ -9,12 +9,14 @@
 
 # Список ресурсов 
 **Подпишитесь** на ресурсы, на платформе которых у вас есть аккаунты/учетные записи:
+
 | Платформа    | Ссылка                                 |
-| ------       | ------                                 |
+| --- | --- |
 |Сайт (GitHub) |  https://internet-totem.github.io      |
 |ВК            |  https://vk.com/internet_totem         |
 |ВК Link       |  https://vk.link/internet_totem        |
 |Одноклассники |  https://ok.ru/group/70000007265541    |
 |Дзен          |  https://dzen.ru/internet_totem        |
 |Пикабу        |  https://pikabu.ru/@InternetTotem      |
+
 Список ресурсов будет пополняться, основной ресурс: internet-totem.github.io
