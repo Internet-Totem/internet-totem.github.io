@@ -12,11 +12,11 @@
 
 | Платформа    | Ссылка                                 |
 | --- | --- |
-|Сайт (GitHub) |  https://internet-totem.github.io      |
-|ВК            |  https://vk.com/internet_totem         |
-|ВК Link       |  https://vk.link/internet_totem        |
-|Одноклассники |  https://ok.ru/group/70000007265541    |
-|Дзен          |  https://dzen.ru/internet_totem        |
-|Пикабу        |  https://pikabu.ru/@InternetTotem      |
+|Сайт (GitHub) |  [internet-totem.github.io](https://internet-totem.github.io)      |
+|ВК            |  [vk.com/internet_totem](https://vk.com/internet_totem)         |
+|ВК Link       |  [vk.link/internet_totem](https://vk.link/internet_totem)        |
+|Одноклассники |  [ok.ru/group/70000007265541](https://ok.ru/group/70000007265541)    |
+|Дзен          |  [dzen.ru/internet_totem](https://dzen.ru/internet_totem)        |
+|Пикабу        |  [pikabu.ru/@InternetTotem](https://pikabu.ru/@InternetTotem)      |
 
-Список ресурсов будет пополняться, основной ресурс: internet-totem.github.io
+Список ресурсов будет пополняться, основной ресурс: [internet-totem.github.io](https://internet-totem.github.io)
